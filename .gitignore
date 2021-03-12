@@ -1,0 +1,5 @@
+/cmake-build-debug
+/dataset/*
+/build
+/.vscode
+/.idea
