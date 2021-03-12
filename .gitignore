@@ -1,5 +1,6 @@
 /cmake-build-debug
-/dataset/*
+/dataset/mav0
+/dataset/rgbd_dataset_freiburg1_xyz
 /build
 /.vscode
 /.idea
