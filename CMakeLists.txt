@@ -12,7 +12,7 @@ include_directories(
 )
 
 add_executable(indoor_slam
-        examples/stereo_kitti_test.cpp
+        examples/stereo_euroc_test.cpp
         src/Tracker.cpp
         src/Frame.cpp
         src/StereoFrame.cpp
